@@ -15,5 +15,6 @@ Console.WriteLine($"The sum of {num1}, {num2} and {num3} is {result}");
 // Method of Adding three numbers
 int AddThreeNumbers(int a, int b, int c)
 {
+    // Return the sum of the three numbers
     return a + b + c;
 }
