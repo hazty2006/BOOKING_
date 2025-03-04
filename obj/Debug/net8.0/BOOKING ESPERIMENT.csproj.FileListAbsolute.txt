@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\BOOKING_\bin\Debug\net8.0\BOOKING ESPERIMENT.exe
+C:\Users\USER\Desktop\BOOKING_\bin\Debug\net8.0\BOOKING ESPERIMENT.deps.json
+C:\Users\USER\Desktop\BOOKING_\bin\Debug\net8.0\BOOKING ESPERIMENT.runtimeconfig.json
+C:\Users\USER\Desktop\BOOKING_\bin\Debug\net8.0\BOOKING ESPERIMENT.dll
+C:\Users\USER\Desktop\BOOKING_\bin\Debug\net8.0\BOOKING ESPERIMENT.pdb
+C:\Users\USER\Desktop\BOOKING_\obj\Debug\net8.0\BOOKING ESPERIMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\BOOKING_\obj\Debug\net8.0\BOOKING ESPERIMENT.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\BOOKING_\obj\Debug\net8.0\BOOKING ESPERIMENT.AssemblyInfo.cs
+C:\Users\USER\Desktop\BOOKING_\obj\Debug\net8.0\BOOKING ESPERIMENT.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\BOOKING_\obj\Debug\net8.0\BOOKING ESPERIMENT.sourcelink.json
+C:\Users\USER\Desktop\BOOKING_\obj\Debug\net8.0\BOOKING ESPERIMENT.dll
+C:\Users\USER\Desktop\BOOKING_\obj\Debug\net8.0\refint\BOOKING ESPERIMENT.dll
+C:\Users\USER\Desktop\BOOKING_\obj\Debug\net8.0\BOOKING ESPERIMENT.pdb
+C:\Users\USER\Desktop\BOOKING_\obj\Debug\net8.0\BOOKING ESPERIMENT.genruntimeconfig.cache
+C:\Users\USER\Desktop\BOOKING_\obj\Debug\net8.0\ref\BOOKING ESPERIMENT.dll
